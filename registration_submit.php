@@ -1,7 +1,7 @@
 <?php
 require("vendor/autoload.php");
 
-$to = 'stevetiu@gmail.com'; // bybentan@gmail.com,
+$to = 'bybentan@gmail.com';
 $subject = 'BBTM New Registration';
 
 // Pull the information from the request (POST variable)
