@@ -13,9 +13,6 @@ $emailAddr 		= filter_input(INPUT_POST, "FromEmailAddress", FILTER_VALIDATE_EMAI
 $workPhone 		= filter_input(INPUT_POST, "WorkPhone");
 $cellPhone 		= filter_input(INPUT_POST, "CellPhone");
 
-print "$firstName $lastName $organization $emailAddr"; 
-
-
 $error 			= true;
 $message 		= "Thanks for registering with us!";
 
@@ -72,8 +69,6 @@ EMAIL;
 
 // Redirect back to your registration page.
 // http://php.net/manual/en/function.header.php
-print $message;
-die;
 if ($error) {
 	header("Location: registration.php?message=$message&error=$error");
 }
