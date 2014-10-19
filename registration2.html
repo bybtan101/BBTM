@@ -1,0 +1,144 @@
+<?php
+$to = 'bybentan@gmail.com';
+$subject = 'this came from Ben's hard work';
+
+$FirstName= $_POST['FirstName'];
+$LastName= $_POST['LastName'];
+$Organization= $_POST['Organization'];
+$FromEmailAddress= $_POST['FromEmailAddress'];
+$WorkPhone= $_POST['WorkPhone'];
+$CellPhone= $_POST['CellPhone'];
+
+$message = <<<EMAIL
+
+#FirstName
+$LastName
+$Organization
+$FromEmailAddress
+$WorkPhone
+$CellPhone
+
+EMAIL;
+
+$header = '$FromEmailAddress';
+
+if($_POST){
+	mail($to, $subject, $message, $header)
+	$feedback = 'Thanks for Registering with us';
+}
+?>
+
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Acceltech Academy</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<script src="js/jquery.min.js"></script>
+		<script src="js/config.js"></script>
+		<script src="js/skel.min.js"></script>
+		<script src="js/skel-panels.min.js"></script>
+		<script src="js/main.js"></script>
+		<noscript>
+			<link rel="stylesheet" href="css/skel-noscript.css" />
+			<link rel="stylesheet" href="css/style.css" />
+			<link rel="stylesheet" href="css/style-desktop.css" />
+		</noscript>
+	</head>
+	<body class="subpage">
+
+		<!-- Header -->
+			<div id="header-wrapper">
+				<header id="header" class="container">
+					<div class="row">
+						<div class="12u">
+
+							<!-- Logo -->
+								<h1><a href="#" id="logo">Acceltech Academy</a></h1>
+							
+							<!-- Nav -->
+								<nav id="nav">
+									<a href="index.html">Home</a>
+									<a href="programs.html">Programs</a>
+									<a href="Aboutus.html">About Us</a>
+									<a href="FAQs.html">FAQs</a>
+									<a href="Contactus.html">Contact Us</a>
+								</nav>
+
+						</div>
+					</div>
+				</header>
+			</div>
+
+		<!-- Content -->
+			<div id="content-wrapper">
+				<div id="content">
+					<div class="container">
+						<div class="row">
+							<div class="9u">
+								
+								<!-- Main Content -->
+									<section>
+										<header>
+											<h2>Terms and Conditions</h2>
+											<p>We are committed to protecting your privacy. Authorized employees within the company on a need to know basis only use any information collected from individual customers. 
+											We constantly review our systems and data to ensure the best possible service to our customers. Parliament has created specific offences for unauthorised actions against computer 
+											systems and data. We will investigate any such actions with a view to prosecuting and/or taking civil proceedings to recover damages against those responsible</P>
+											<p>We are registered under the Data Protection Act 1998 and as such, any information concerning the Client and their respective Client Records may be passed to third parties. However, Client records are regarded as confidential and therefore will not be divulged to any third party, other than [our manufacturer/supplier(s) and] if legally required to do so to the appropriate authorities. Clients have the right to request sight of, and copies of any and all Client Records we keep, on the proviso that we are given reasonable notice of such a request. Clients are requested to retain copies of any literature issued in relation to the provision of our services. Where appropriate, we shall issue Client’s 
+											with appropriate written information, handouts or copies of records as part of an agreed contract, for the benefit of both parties.
+											Returned cheques will incur a £25 charge to cover banking fees and administrative costs. In an instance of a second Returned cheque, we reserve the right to terminate the arrangement and, if agreed to, we shall insist on future cash transactions only. Consequently, all bookings and/or transactions and agreements entered into will cease with immediate effect until such time as any and all outstanding monies are recovered in full.</p>
+											<p>The Company reserves the right to change these conditions from time to time as it sees fit and your continued use of the site will signify your acceptance of any adjustment to these terms. If there are any changes to our privacy policy, we will announce that these changes have been made on our home page and on other key pages on our site. If there are any changes in how we use our site customers’ Personally Identifiable Information, notification by e-mail or postal mail will be made to those affected by this change. Any changes to our privacy policy will be posted on our web site 30 days prior to these changes taking place. You are therefore advised to re-read this statement on a regular basis
+											These terms and conditions form part of the Agreement between the Client and ourselves. Your accessing of this website and/or undertaking of a booking or Agreement indicates your understanding, agreement to and acceptance, of the Disclaimer Notice and the full Terms and Conditions contained herein. Your statutory Consumer Rights are unaffected.</p>
+										<form action="demo_form.asp">
+										<input type="checkbox" name="vehicle" value="Bike">I agree to the Terms and Conditions<br>
+										<br><input type="submit" value="Submit">
+										</form>
+								</section>
+							</div>
+							<div class="3u">
+								
+								<!-- Sidebar -->
+									<section>
+										<header>
+											<h2>Ready to Sign On?</h2>
+										</header>
+										<div id="banner">
+									<div class="container">
+											<div class="6u">
+												<a href="#" class="button-big" style="color:#ffffff;">Register!</a>
+											</div>
+									</div>
+										</div>
+									</section>
+									<section>
+										<header>
+											<h2>Course Details</h2>
+										</header>
+										<ul class="link-list">
+											<li><strong>Course Name:</strong><br>Foundations in Web Applications</br></li>
+											<li>Time: <br>Saturday 11:00AM-2:00PM</br></li>
+											<li>Location: <br>SFU Segal School of Business</br></li>
+											<li>Cost: <<br>$395.00 CAD</br></li>
+										</ul>
+									</section>
+
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+		<!-- Footer -->
+			<div id="footer-wrapper">
+				<footer id="footer" class="container">
+					<div class="row">
+				</footer>
+			</div>
+
+		<!-- Copyright -->
+			<div id="copyright">
+				&copy; Acceltech Inc. All rights reserved.</a>
+			</div>
+	</body>
+</html>
