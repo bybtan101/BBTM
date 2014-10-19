@@ -1,32 +1,3 @@
-<?php
-$to = 'bybentan@gmail.com';
-$subject = 'this came from Ben's hard work';
-
-$FirstName= $_POST['FirstName'];
-$LastName= $_POST['LastName'];
-$Organization= $_POST['Organization'];
-$FromEmailAddress= $_POST['FromEmailAddress'];
-$WorkPhone= $_POST['WorkPhone'];
-$CellPhone= $_POST['CellPhone'];
-
-$message = <<<EMAIL
-
-#FirstName
-$LastName
-$Organization
-$FromEmailAddress
-$WorkPhone
-$CellPhone
-
-EMAIL;
-
-$header = '$FromEmailAddress';
-
-if($_POST){
-	mail($to, $subject, $message, $header)
-	$feedback = 'Thanks for Registering with us';
-}
-?>
 <!DOCTYPE HTML>
 <html>
 	<head>
@@ -88,29 +59,8 @@ if($_POST){
 										</header>
 										<h2>Step 1: Registration</h2>
 										<p id="feedback"><?php echo $feedback; ?></p>
-											<form action="?" method="post" enctype="text/plain" onsubmit="return ValidateForm(this);">
+											<form action="registration_submit.php" method="post">
 											<input id="SnapHostID" name="SnapHostID" type="hidden" value="QZM4Q2PMXHJA" />
-											<script type="text/javascript">
-											function ValidateForm(frm) {
-											if (frm.FirstName.value == "") {alert('First Name is required.');frm.FirstName.focus();return false;}
-											if (frm.LastName.value == "") {alert('Last Name is required.');frm.LastName.focus();return false;}
-											if (frm.Organization.value == "") {alert('Institution is required.');frm.Organization.focus();return false;}
-											if (frm.FromEmailAddress.value == "") {alert('Email address is required.');frm.FromEmailAddress.focus();return false;}
-											if (frm.FromEmailAddress.value.indexOf("@") < 1 || frm.FromEmailAddress.value.indexOf(".") < 1) {alert('Please enter a valid email address.');frm.FromEmailAddress.focus();return false;}
-											if (frm.StreetAddress1.value == "") {alert('Address is required.');frm.StreetAddress1.focus();return false;}
-											if (frm.City.value == "") {alert('City is required.');frm.City.focus();return false;}
-											if (frm.Country.value == "") {alert('Country is required.');frm.Country.focus();return false;}
-											if (frm.CaptchaCode.value == "") {alert('Enter web form code.');frm.CaptchaCode.focus();return false;}
-											return true; }
-											function ReloadCaptchaImage(captchaImageId) {
-											var obj = document.getElementById(captchaImageId);
-											var src = obj.src;
-											var date = new Date();
-											var pos = src.indexOf('&rad=');
-											if (pos >= 0) { src = src.substr(0, pos); }
-											obj.src = src + '&rad=' + date.getTime();
-											return false; }
-											</script>
 											<table border="0" cellpadding="5" cellspacing="0" width="600">
 											<tr>
 											<td><b>Full Name</td>
@@ -131,14 +81,6 @@ if($_POST){
 											</tr><tr>
 											<td><b>Cell Phone:</b></td>
 											<td><input id="CellPhone" name="CellPhone" type="text" maxlength="43" style="width:250px; border:1px solid #999999" /></td>
-											</tr><tr>
-											</tr><tr>
-											</tr><tr>
-											</tr><tr>
-											</tr><tr>
-											</tr><tr>
-											</tr><tr>
-											</tr><tr>
 											<td colspan="2" align="center">
 											<br />
 											<table border="0" cellpadding="0" cellspacing="0">
