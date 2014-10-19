@@ -57,12 +57,12 @@
 											Afterwards, you will get a email confirmation with the order confirmation code, that will be your unique
 											student number for this specific class. </h3>
 										</header>
-										<h2>Step 1: Registration</h2>
-										<p id="feedback"><?php 
+										<h2>Step 1: Registration</h2>										
+										<p id="feedback" style="color: red"><strong><?php 
 											if (isset($_GET['message'])) { 
 												echo $_GET['message']; 
 											} 
-										?>
+										?></strong>
 										</p>
 											<form action="registration_submit.php" method="post">
 											<input id="SnapHostID" name="SnapHostID" type="hidden" value="QZM4Q2PMXHJA" />

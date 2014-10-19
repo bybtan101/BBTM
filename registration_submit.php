@@ -49,6 +49,12 @@ EMAIL;
 
 // Redirect back to your registration page.
 // http://php.net/manual/en/function.header.php
-header("Location: registration.php?message=$message&error=$error");
+
+if ($error) {
+	header("Location: registration.php?message=$message&error=$error");
+}
+else {
+	header("Location: registration_success.php"); 
+}
 
 ?>
