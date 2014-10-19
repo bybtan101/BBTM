@@ -1,6 +1,6 @@
 <?php
 $to = 'bybentan@gmail.com';
-$subject = 'BBTM New Student';
+$subject = "BBTM New Student Registration";
 
 $FirstName= $_POST['FirstName'];
 $LastName= $_POST['LastName'];
@@ -23,11 +23,10 @@ EMAIL;
 $header = "$FromEmailAddress";
 
 if($_POST){
-	mail($to, $subject, $message, $header)
-	$feedback = 'Thanks for Registering with us';
+	mail($to, $subject, $message, $header);
+	$feedback = "Thanks for registering with us";
 }
 ?>
-
 <!DOCTYPE HTML>
 <html>
 	<head>
@@ -82,15 +81,12 @@ if($_POST){
 									<section>
 										<header>
 											<h2>Registration</h2>
-											<p>Thanks for your interest in registering for this course. AT AccelTech academy, it is our honour to provide you with the best opportunities, since we are a brand new
-											program, we have created the following steps to ensure a smooth registration for our students.</p> 
-											
-											<p>The first step is to fill out some contact information. Once completed, you will be directed to our PayPal partners
+											<h3>Thanks for your interst in registering for this course. The first step is to fill out some contact information. Once completed, you will be directed to our paypal partners
 											where a deposit of $50 is charged for reservation for this course while the remaining amount can be presented as a cheque or cash on the first week of class. 
 											Afterwards, you will get a email confirmation with the order confirmation code, that will be your unique
-											student number for this specific class. </p>
+											student number for this specific class. </h3>
 										</header>
-										<h2>Sign Up</h2>
+										<h2>Step 1: Registration</h2>
 										<p id="feedback"><?php echo $feedback; ?></p>
 											<form action="?" method="post" enctype="text/plain" onsubmit="return ValidateForm(this);">
 											<input id="SnapHostID" name="SnapHostID" type="hidden" value="QZM4Q2PMXHJA" />
@@ -151,8 +147,8 @@ if($_POST){
 											</tr>
 											</table>
 											<br />
-											* - Please note the $50 is non-refundable upon purchase. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-											<input id="skip_Submit" name="skip_Submit" type="submit" value="Next Step" />
+											* - Please note the $50 is non-refundable upon purchase &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+											<input id="skip_Submit" name="skip_Submit" type="submit" value="Submit" />
 											</td>
 											</tr>
 											</table>
@@ -170,7 +166,7 @@ if($_POST){
 										<div id="banner">
 									<div class="container">
 											<div class="6u">
-												<a href="#" class="button-big" style="color:#ffffff;">Register!</a>
+												<a href="#" class="button-big">Register!</a>
 											</div>
 									</div>
 										</div>
@@ -183,9 +179,10 @@ if($_POST){
 											<li><strong>Course Name:</strong><br>Foundations in Web Applications</br></li>
 											<li>Time: <br>Saturday 11:00AM-2:00PM</br></li>
 											<li>Location: <br>SFU Segal School of Business</br></li>
-											<li>Cost: <<br>$395.00 CAD</br></li>
+											<li>Cost: <br>$395.00 CAD</br></li>
 										</ul>
-								</section>
+									</section>
+
 							</div>
 						</div>
 					</div>
@@ -204,4 +201,4 @@ if($_POST){
 				&copy; Acceltech Inc. All rights reserved.</a>
 			</div>
 	</body>
-</html>
+</html
