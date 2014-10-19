@@ -43,8 +43,12 @@ EMAIL;
 
 	// Send the email
 	$header 	= "$FromEmailAddress";
-	mail($to, $subject, $message, $header);
-	$error 		= false;	
+	if (mail($to, $subject, $message, $header)) {
+		$error 		= false;	
+	}
+	else {
+		$message = "Failed to do stuff.";
+	}
 }
 
 // Redirect back to your registration page.
