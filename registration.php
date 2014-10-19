@@ -58,7 +58,12 @@
 											student number for this specific class. </h3>
 										</header>
 										<h2>Step 1: Registration</h2>
-										<p id="feedback"><?php echo $feedback; ?></p>
+										<p id="feedback"><?php 
+											if (isset($_GET['message'])) { 
+												echo $_GET['message']; 
+											} 
+										?>
+										</p>
 											<form action="registration_submit.php" method="post">
 											<input id="SnapHostID" name="SnapHostID" type="hidden" value="QZM4Q2PMXHJA" />
 											<table border="0" cellpadding="5" cellspacing="0" width="600">
