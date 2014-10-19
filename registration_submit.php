@@ -1,6 +1,8 @@
 <?php
-$to = 'bybentan@gmail.com';
-$subject = 'this came from Bens hard work';
+require("vendor/autoload.php");
+
+$to = 'stevetiu@gmail.com'; // bybentan@gmail.com,
+$subject = 'BBTM New Registration';
 
 // Pull the information from the request (POST variable)
 // http://php.net/manual/en/function.filter-input.php
@@ -10,6 +12,9 @@ $organization 	= filter_input(INPUT_POST, "Organization");
 $emailAddr 		= filter_input(INPUT_POST, "FromEmailAddress", FILTER_VALIDATE_EMAIL);
 $workPhone 		= filter_input(INPUT_POST, "WorkPhone");
 $cellPhone 		= filter_input(INPUT_POST, "CellPhone");
+
+print "$firstName $lastName $organization $emailAddr"; 
+
 
 $error 			= true;
 $message 		= "Thanks for registering with us!";
@@ -32,28 +37,43 @@ else if ($emailAddr === FALSE || $emailAddr == null) {
 else {
 	$message = <<<EMAIL
 
-	#FirstName
-	$LastName
-	$Organization
-	$FromEmailAddress
-	$WorkPhone
-	$CellPhone
+	$firstName
+	$lastName
+	$organization
+	$emailAddr
+	$workPhone
+	$cellPhone
 
 EMAIL;
 
-	// Send the email
-	$header 	= "$FromEmailAddress";
-	if (mail($to, $subject, $message, $header)) {
+	// Send the email	
+	$mail = new PHPMailer();
+
+	$mail->isSMTP();
+	$mail->Host = "mailgate.sfu.ca";
+	$mail->Port = "465";
+	$mail->SMTPAuth = true;
+	$mail->SMTPSecure = "ssl";
+	$mail->Username = "ybt@sfu.ca";
+	$mail->Password = "Helpme1234";
+	$mail->From = $emailAddr;
+	$mail->AddAddress($to);
+	$mail->Subject = $subject;
+	$mail->Body = $message;
+	$mail->WordWrap = 50;
+
+	if ($mail->send()) {
 		$error 		= false;	
 	}
 	else {
-		$message = "Failed to do stuff.";
+		$message = "Failed to do stuff: " . $mail->ErrorInfo;
 	}
 }
 
 // Redirect back to your registration page.
 // http://php.net/manual/en/function.header.php
-
+print $message;
+die;
 if ($error) {
 	header("Location: registration.php?message=$message&error=$error");
 }
