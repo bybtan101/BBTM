@@ -101,7 +101,10 @@
 											</table>
 											<br />
 											</form>
-											<p>By hitting the submit button, you agree to our <a href="termsnconditions.html" class="button-big" style="color:#ffffff;">Register!</a></p>
+											<p>I agree to Acceltech's <a href="termsnconditions.html">Terms and Conditions</a></p>
+											<form>
+												<input type="checkbox" name="tnc" value="tnc"><br>
+												</form>
 								</section>
 							</div>
 							<div class="3u">
