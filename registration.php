@@ -65,46 +65,43 @@
 										?></strong>
 										</p>
 											<form action="registration_submit.php" method="post">
-											<input id="SnapHostID" name="SnapHostID" type="hidden" value="QZM4Q2PMXHJA" />
-											<table border="0" cellpadding="5" cellspacing="0" width="600">
-											<tr>
-											<td><b>Full Name</td>
-											<td>
-											<input id="FirstName" name="FirstName" type="text" maxlength="60" style="width:146px; border:1px solid #999999" />
-											<input id="LastName" name="LastName" type="text" maxlength="60" style="width:146px; border:1px solid #999999" />
-											</td>
-											</tr><tr>
-											<td><b>Institution:</b></td>
-											<td><input id="Organization" name="Organization" type="text" maxlength="60" style="width:300px; border:1px solid #999999" /></td>
-											</tr><tr>
-											<td><b>Email address*:</b></td>
-											<td><input id="FromEmailAddress" name="FromEmailAddress" type="text" maxlength="60" style="width:300px; border:1px solid #999999" /></td>
-											</tr><tr>
-											<td><b>Work Phone:</b></td>
-											<td><input id="WorkPhone" name="WorkPhone" type="text" maxlength="43" style="width:250px; border:1px solid #999999" /></td>
-											</tr><tr>
-											</tr><tr>
-											<td><b>Cell Phone:</b></td>
-											<td><input id="CellPhone" name="CellPhone" type="text" maxlength="43" style="width:250px; border:1px solid #999999" /></td>
-											<td colspan="2" align="center">
-											<br />
-											<table border="0" cellpadding="0" cellspacing="0">
-											<tr valign="top">
-										
-											</tr>
-											</table>
-											<br />
-											* - Please note the $50 is non-refundable upon purchase &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-											<input id="skip_Submit" name="skip_Submit" type="submit" value="Submit" />
-											</td>
-											</tr>
-											</table>
-											<br />
+												<input id="SnapHostID" name="SnapHostID" type="hidden" value="QZM4Q2PMXHJA" />
+												<table border="0" cellpadding="5" cellspacing="0" width="600">
+												<tr>
+												<td><b>Full Name</td>
+												<td>
+												<input id="FirstName" name="FirstName" type="text" maxlength="60" style="width:146px; border:1px solid #999999" />
+												<input id="LastName" name="LastName" type="text" maxlength="60" style="width:146px; border:1px solid #999999" />
+												</td>
+												</tr><tr>
+												<td><b>Institution:</b></td>
+												<td><input id="Organization" name="Organization" type="text" maxlength="60" style="width:300px; border:1px solid #999999" /></td>
+												</tr><tr>
+												<td><b>Email address*:</b></td>
+												<td><input id="FromEmailAddress" name="FromEmailAddress" type="text" maxlength="60" style="width:300px; border:1px solid #999999" /></td>
+												</tr><tr>
+												<td><b>Work Phone:</b></td>
+												<td><input id="WorkPhone" name="WorkPhone" type="text" maxlength="43" style="width:250px; border:1px solid #999999" /></td>
+												</tr><tr>
+												</tr><tr>
+												<td><b>Cell Phone:</b></td>
+												<td><input id="CellPhone" name="CellPhone" type="text" maxlength="43" style="width:250px; border:1px solid #999999" /></td>
+												<td colspan="2" align="center">
+												<br />
+												<table border="0" cellpadding="0" cellspacing="0">
+												<tr valign="top">
+											
+												</tr>
+												</table>
+												<br />
+												* - Please note the $50 is non-refundable upon purchase &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+												<input id="skip_Submit" name="skip_Submit" type="submit" value="Submit" />
+												</td>
+												</tr>
+												</table>
+												<br />
+												<p>I agree to Acceltech's <a href="termsnconditions.html" target="_blank">Terms and Conditions</a><input type="checkbox" name="tnc" value="tnc"><br></p>
 											</form>
-											<p>I agree to Acceltech's <a href="termsnconditions.html" target="_blank">Terms and Conditions</a><input type="checkbox" name="tnc" value="tnc"><br></p>
-											<form>
-												<input type="checkbox" name="tnc" value="tnc"><br>
-												</form>
 								</section>
 							</div>
 							<div class="3u">
