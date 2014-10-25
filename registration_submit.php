@@ -9,7 +9,7 @@ $subject = 'BBTM New Registration';
 $firstName 		= filter_input(INPUT_POST, "FirstName");
 $lastName 		= filter_input(INPUT_POST, "LastName");
 $organization 	= filter_input(INPUT_POST, "Organization");
-$emailAddr 		= filter_input(INPUT_POST, "FromEmailAddress", FILTER_VALIDATE_EMAIL);
+$emailAddr 		= filter_input(INPUT_POST, "FromEmailAddress");
 $workPhone 		= filter_input(INPUT_POST, "WorkPhone");
 $cellPhone 		= filter_input(INPUT_POST, "CellPhone");
 
@@ -24,7 +24,7 @@ else if ($lastName === FALSE || $lastName == null) {
 	$message = "Last Name is required";
 }
 else if ($organization === FALSE || $organization == null) {
-	$message = "Organization is required";
+	$message = "Institution is required";
 }
 else if ($emailAddr === FALSE || $emailAddr == null) {
 	$message = "Email address is required and must be a valid email address";
@@ -63,7 +63,7 @@ EMAIL;
 		$error 		= false;	
 	}
 	else {
-		$message = "Failed to do stuff: " . $mail->ErrorInfo;
+		$message = "Error: " . $mail->ErrorInfo;
 	}
 }
 
