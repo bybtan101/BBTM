@@ -101,7 +101,7 @@
 											</table>
 											<br />
 											</form>
-											<p>I agree to Acceltech's <a href="termsnconditions.html" target="_blank">Terms and Conditions</a>></p>
+											<p>I agree to Acceltech's <a href="termsnconditions.html" target="_blank">Terms and Conditions</a><input type="checkbox" name="tnc" value="tnc"><br></p>
 											<form>
 												<input type="checkbox" name="tnc" value="tnc"><br>
 												</form>
