@@ -1,33 +1,3 @@
-<?php
-$to = 'bybentan@gmail.com';
-$subject = 'this came from Ben's hard work';
-
-$FirstName= $_POST['FirstName'];
-$LastName= $_POST['LastName'];
-$Organization= $_POST['Organization'];
-$FromEmailAddress= $_POST['FromEmailAddress'];
-$WorkPhone= $_POST['WorkPhone'];
-$CellPhone= $_POST['CellPhone'];
-
-$message = <<<EMAIL
-
-#FirstName
-$LastName
-$Organization
-$FromEmailAddress
-$WorkPhone
-$CellPhone
-
-EMAIL;
-
-$header = '$FromEmailAddress';
-
-if($_POST){
-	mail($to, $subject, $message, $header)
-	$feedback = 'Thanks for Registering with us';
-}
-?>
-
 <!DOCTYPE HTML>
 <html>
 	<head>
@@ -59,7 +29,7 @@ if($_POST){
 							
 							<!-- Nav -->
 								<nav id="nav">
-									<a href="index.html">Home</a>
+									<a href="index.php">Home</a>
 									<a href="programs.html">Programs</a>
 									<a href="Aboutus.html">About Us</a>
 									<a href="FAQs.html">FAQs</a>
