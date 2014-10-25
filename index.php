@@ -29,7 +29,7 @@
 							
 							<!-- Nav -->
 								<nav id="nav">
-									<a href="index.html">Home</a>
+									<a href="index.php">Home</a>
 									<a href="programs.html">Programs</a>
 									<a href="aboutus.html">About Us</a>
 									<a href="faqs.html">FAQs</a>
