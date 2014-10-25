@@ -32,7 +32,7 @@
 									<a href="programs.html">Programs</a>
 									<a href="aboutus.html">About Us</a>
 									<a href="faqs.html">FAQs</a>
-									<a href="contactus.php">Contact Us</a>
+									<a href="contactus.html">Contact Us</a>
 								</nav>
 
 						</div>
