@@ -1,7 +1,7 @@
 <?php
 require("vendor/autoload.php");
 
-$to = 'bybentan@gmail.com, daruvin@gmail.com, reneekchau134@gmail.com';
+$to = 'bybentan@gmail.com';
 $subject = 'BBTM New Registration';
 
 // Pull the information from the request (POST variable)
@@ -9,7 +9,7 @@ $subject = 'BBTM New Registration';
 $firstName 		= filter_input(INPUT_POST, "FirstName");
 $lastName 		= filter_input(INPUT_POST, "LastName");
 $organization 	= filter_input(INPUT_POST, "Organization");
-$emailAddr 		= filter_input(INPUT_POST, "FromEmailAddress");
+$emailAddr 		= filter_input(INPUT_POST, "FromEmailAddress", FILTER_VALIDATE_EMAIL);
 $workPhone 		= filter_input(INPUT_POST, "WorkPhone");
 $cellPhone 		= filter_input(INPUT_POST, "CellPhone");
 
@@ -63,7 +63,7 @@ EMAIL;
 		$error 		= false;	
 	}
 	else {
-		$message = "Error: " . $mail->ErrorInfo;
+		$message = "Failed to do stuff: " . $mail->ErrorInfo;
 	}
 }
 
