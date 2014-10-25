@@ -52,20 +52,39 @@
 									<section>
 										<header>
 											<h2>Registration</h2>
-											<h3>Thanks for your interst in registering for this course. The first step is to fill out some contact information. Once completed, you will be directed to our paypal partners
+											<p>Thanks for your interest in registering for this course. AT AccelTech academy, it is our honour to provide you with the best opportunities, since we are a brand new
+											program, we have created the following steps to ensure a smooth registration for our students.</p> 
+											
+											<p>The first step is to fill out some contact information. Once completed, you will be directed to our PayPal partners
 											where a deposit of $50 is charged for reservation for this course while the remaining amount can be presented as a cheque or cash on the first week of class. 
 											Afterwards, you will get a email confirmation with the order confirmation code, that will be your unique
-											student number for this specific class. </h3>
+											student number for this specific class. </p>
 										</header>
-										<h2>Step 1: Registration</h2>										
-										<p id="feedback" style="color: red"><strong><?php 
-											if (isset($_GET['message'])) { 
-												echo $_GET['message']; 
-											} 
-										?></strong>
-										</p>
-											<form action="registration_submit.php" method="post">
+										<h2>Sign Up</h2>
+										<p id="feedback"><?php echo $feedback; ?></p>
+											<form action="?" method="post" enctype="text/plain" onsubmit="return ValidateForm(this);">
 											<input id="SnapHostID" name="SnapHostID" type="hidden" value="QZM4Q2PMXHJA" />
+											<script type="text/javascript">
+											function ValidateForm(frm) {
+											if (frm.FirstName.value == "") {alert('First Name is required.');frm.FirstName.focus();return false;}
+											if (frm.LastName.value == "") {alert('Last Name is required.');frm.LastName.focus();return false;}
+											if (frm.Organization.value == "") {alert('Institution is required.');frm.Organization.focus();return false;}
+											if (frm.FromEmailAddress.value == "") {alert('Email address is required.');frm.FromEmailAddress.focus();return false;}
+											if (frm.FromEmailAddress.value.indexOf("@") < 1 || frm.FromEmailAddress.value.indexOf(".") < 1) {alert('Please enter a valid email address.');frm.FromEmailAddress.focus();return false;}
+											if (frm.StreetAddress1.value == "") {alert('Address is required.');frm.StreetAddress1.focus();return false;}
+											if (frm.City.value == "") {alert('City is required.');frm.City.focus();return false;}
+											if (frm.Country.value == "") {alert('Country is required.');frm.Country.focus();return false;}
+											if (frm.CaptchaCode.value == "") {alert('Enter web form code.');frm.CaptchaCode.focus();return false;}
+											return true; }
+											function ReloadCaptchaImage(captchaImageId) {
+											var obj = document.getElementById(captchaImageId);
+											var src = obj.src;
+											var date = new Date();
+											var pos = src.indexOf('&rad=');
+											if (pos >= 0) { src = src.substr(0, pos); }
+											obj.src = src + '&rad=' + date.getTime();
+											return false; }
+											</script>
 											<table border="0" cellpadding="5" cellspacing="0" width="600">
 											<tr>
 											<td><b>Full Name</td>
@@ -86,6 +105,14 @@
 											</tr><tr>
 											<td><b>Cell Phone:</b></td>
 											<td><input id="CellPhone" name="CellPhone" type="text" maxlength="43" style="width:250px; border:1px solid #999999" /></td>
+											</tr><tr>
+											</tr><tr>
+											</tr><tr>
+											</tr><tr>
+											</tr><tr>
+											</tr><tr>
+											</tr><tr>
+											</tr><tr>
 											<td colspan="2" align="center">
 											<br />
 											<table border="0" cellpadding="0" cellspacing="0">
@@ -94,27 +121,28 @@
 											</tr>
 											</table>
 											<br />
-											* - Please note the $50 is non-refundable upon purchase &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+											* - Please note the $50 is non-refundable upon purchase. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 											<input id="skip_Submit" name="skip_Submit" type="submit" value="Submit" />
 											</td>
 											</tr>
 											</table>
 											<br />
 											</form>
-											<p>By hitting the submit button, you agree to our <a href="termsnconditions.html" class="button-big" style="color:#ffffff;">Register!</a></p>
 								</section>
 							</div>
 							<div class="3u">
 								
 								<!-- Sidebar -->
 									<section>
+										<header>
 											<h2>Ready to Sign On?</h2>
+										</header>
 										<div id="banner">
-											<div class="container">
+									<div class="container">
 											<div class="6u">
-												<a href="registration.php" class="button-big" style="color:#ffffff;">Register!</a>
-												</div>
+												<a href="#" class="button-big">Register!</a>
 											</div>
+									</div>
 										</div>
 									</section>
 									<section>
@@ -128,6 +156,7 @@
 											<li>Cost: <<br>$395.00 CAD</br></li>
 										</ul>
 									</section>
+
 							</div>
 						</div>
 					</div>
