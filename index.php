@@ -45,8 +45,8 @@
 							<div class="6u">
 							
 								<!-- Banner Copy -->
-									<p>Registration are out for our upcoming 2015 Web Application Foundations Course!</p>
-									<a href="registration.php" class="button-big">Register!</a>
+									<p>Registration for our upcoming 2015 Web Application Foundations Course will be opened on November 12,2014</p>
+									<a href="" class="button-big">Register!</a>
 
 							</div>
 							<div class="6u">

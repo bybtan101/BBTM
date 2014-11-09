@@ -52,7 +52,7 @@
 									<section>
 										<header>
 											<h2>Registration</h2>
-											<h3>Thanks for your interst in registering for this course. The first step is to fill out some contact information. Once completed, you will be directed to our paypal partners
+											<h3>Thanks for your interest in registering for this course. The first step is to fill out some contact information. Once completed, you will be directed to our paypal partners
 											where a deposit of $50 is charged for reservation for this course while the remaining amount can be presented as a cheque or cash on the first week of class. 
 											Afterwards, you will get a email confirmation with the order confirmation code, that will be your unique
 											student number for this specific class. </h3>
