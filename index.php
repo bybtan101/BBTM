@@ -25,7 +25,7 @@
 						<div class="12u">
 						
 							<!-- Logo -->
-								<h1><a href="#" id="logo">Acceltech Academy</a></h1>
+								<h1><a href="#" id="logo">Accel Tech Academy</a></h1>
 							
 							<!-- Nav -->
 								<nav id="nav">
@@ -45,7 +45,7 @@
 							<div class="6u">
 							
 								<!-- Banner Copy -->
-									<p>Registration for our upcoming 2015 Web Application Foundations Course will be opened on November 12,2014</p>
+									<p>Registration for the 2015 Foundations of Web App Development course will be opened on November 12</p>
 									<a href="" class="button-big">Register!</a>
 
 							</div>
@@ -85,7 +85,7 @@
 										<a href="#" class="bordered-feature-image"><img src="images/pic02.jpg" alt="" /></a>
 										<h2>Interested in our course?</h2>
 										<p>
-											Our 8-weeks intensive program runs every Saturday from 11AM-3PM inside SFU's Segal School of Business in
+											Our 8-weeks part-time program runs every Saturday from 11AM-3PM inside SFU's Segal School of Business in
 											the downtown core. We are looking for brilliant minds to fill these seats.
 										</p>
 									</section>
@@ -135,15 +135,15 @@
 									<section>
 										<header>
 											<h2>Who We Are</h2>
-											<h3>From the founders of Acceltech</h3>
+											<h3>From the Founders of Accel Tech</h3>
 										</header>
 										<a href="#" class="feature-image"><img src="images/pic05.jpg" alt="" /></a>
 										<p>
-											We are three recent graudates that is passionate about education and technology.
-											Based on the current trends that we see in the tech industry, we have came up with
-											a three part series of courses that will provide students with technical skills so they
-											will be well prepared for their upcoming interviews. This course is recommended for non-technical 
-											students that wants to either get started or pursue a career in the tech field.
+											We are three recent graduates that is passionate about education and technology.
+											Based on the current trends that we see in the Vancouver technology industry, we have came up with
+											a courses that will provide students with technical skills so they
+											will be well prepared for their upcoming interviews when they graduate. This course is recommended for non-technical 
+											students that wants to either get started or pursue a career in the technology field.
 										</p>
 									</section>
 
@@ -153,7 +153,7 @@
 								<!-- Box #2 -->
 									<section>
 										<header>
-											<h2>What our Program Offers</h2>
+											<h2>What our Course Offers</h2>
 											<h3>Students will learn the following skills:</h3>
 										</header>
 										<ul class="check-list">
@@ -175,17 +175,17 @@
 								<!-- Box #3 -->
 									<section>
 										<header>
-											<h2>Foundations of Web Development</h2>
+											<h2>Foundations of Web App Development</h2>
 											<h3>Course Details</h3>
 										</header>
 										<ul class="check-list">
-											<li>Held at SFU Segal School of Business in downtown</li>
-											<li>Starts February 1st, 2015</li>
+											<li>Held at SFU Harbour Centre</li>
+											<li>Starts February 7st, 2015</li>
 											<li>Class Capacity set at 30 students</li>
-											<li>High-School and University students welcome</li>
+											<li>Students from all faculties welcome</li>
 											<li>3 hours a week, with lecture and work base learning</li>
-											<li>Students to bring their own laptop</li>
-											<li>Students to perform demos to industry</li>
+											<li>Students must bring their own laptop (BYOL model)</li>
+											<li>Students to perform demonstration on their web app</li>
 										</ul>
 									</section>
 
@@ -207,7 +207,7 @@
 
 		<!-- Copyright -->
 			<div id="copyright">
-				&copy; Acceltech Inc. All rights reserved.</a>
+				&copy; 2014 Acceltech Inc. All rights reserved.</a>
 			</div>
 
 	</body>
