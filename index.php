@@ -85,7 +85,7 @@
 										<a href="#" class="bordered-feature-image"><img src="images/pic02.jpg" alt="" /></a>
 										<h2>Interested in our course?</h2>
 										<p>
-											Our 8-weeks part-time program runs every Saturday from 11AM-3PM inside SFU's Segal School of Business in
+											Our 8-weeks part-time program runs every Saturday from 11AM-3PM inside SFU's Harbour centre in
 											the downtown core. We are looking for brilliant minds to fill these seats.
 										</p>
 									</section>
@@ -113,8 +113,8 @@
 										<h2>Our Promise to You</h2>
 										<p>
 											Here at Acceltech, it is our highest priority to ensure that students are engaged 
-											and learning, we're so confident in our program that if one is not satisfied with it, we will
-											return their money, hassle-free provided they show up to every class.
+											and learning, we encourage open channels of communications between student and instructors,
+											with the ultimate goal of improving the student's overall learning experience
 										</p>
 									</section>
 
