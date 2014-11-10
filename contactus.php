@@ -52,8 +52,8 @@
 											<h2>Contact Us</h2>
 											<h3>Place to Provide Feedback</h3>
 										</header>
-										<p>Here at Accel Tech, we are dedicated to ensuring that we provide the best course material for our students. If there are any questions or inquiries,
-										   please don't hesitate to shoot us a quick email by filling out the web form below, one of our instructors
+										<p>Here at AccelTech, we are dedicated to ensuring that we provide the best course material for our students. If there are any questions or inquiries,
+										   please don't hesitate to shoot us a quick email by filling out the web form below and one of our instructors
 										   will get back to you as soon as possible.</p>
 										 <h3>Please fill out the form below with your question.</h3>
 											<p id="feedback" style="color: red"><strong><?php 
