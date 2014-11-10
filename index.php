@@ -138,11 +138,11 @@
 										</header>
 										<a href="#" class="feature-image"><img src="images/pic05.jpg" alt="" /></a>
 										<p>
-											We are three recent graduates that is passionate about education and technology.
-											Based on the current trends that we see in the Vancouver technology industry, we have came up with
-											a courses that will provide students with technical skills so they
+											We are three recent graduates who are passionate about education and technology.
+											Based on the current trends that we see in the Vancouver technology industry, we have come up with
+											courses that will provide students with technical skills so they
 											will be well prepared for their upcoming interviews when they graduate. This course is recommended for non-technical 
-											students that wants to either get started or pursue a career in the technology field.
+											students that want to either get started or pursue a career in the technology field.
 										</p>
 									</section>
 
