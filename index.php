@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>AccelTech Academy</title>
+		<title>Accel Tech Academy</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
@@ -45,7 +45,7 @@
 							
 								<!-- Banner Copy -->
 									<p>Registration now open for the 2015 Foundations of Web App Development course</p>
-									<a href="" class="button-big">Register!</a>
+									<a href="https://www.eventbrite.ca/e/accel-tech-and-misa-presents-foundations-of-web-app-development-tickets-14256861657" class="button-big">Register!</a>
 
 							</div>
 							<div class="6u">
@@ -111,7 +111,7 @@
 										<a href="#" class="bordered-feature-image"><img src="images/pic04.jpg" alt="" /></a>
 										<h2>Our Promise to You</h2>
 										<p>
-											Here at Acceltech, it is our highest priority to ensure that students are engaged 
+											Here at Accel Tech, it is our highest priority to ensure that students are engaged 
 											and learning, we encourage open channels of communications between student and instructors,
 											with the ultimate goal of improving the student's overall learning experience
 										</p>
@@ -205,7 +205,7 @@
 
 		<!-- Copyright -->
 			<div id="copyright">
-				&copy; 2014 Acceltech Inc. All rights reserved.</a>
+				&copy; 2014 Accel Tech. All rights reserved.</a>
 			</div>
 
 	</body>
