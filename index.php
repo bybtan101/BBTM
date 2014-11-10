@@ -84,7 +84,7 @@
 										<a href="#" class="bordered-feature-image"><img src="images/pic02.jpg" alt="" /></a>
 										<h2>Interested in our course?</h2>
 										<p>
-											Our 8-week part-time program runs every Saturday from 11AM-3PM inside SFU's Harbour centre in
+											Our 8-week part-time program runs every Saturday from 11AM-3PM inside SFU's Harbour Centre in
 											downtown. We are looking for curious individuals to fill these seats.
 										</p>
 									</section>
