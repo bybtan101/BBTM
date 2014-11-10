@@ -71,7 +71,7 @@
 										<a href="#" class="bordered-feature-image"><img src="images/pic01.jpg" alt="" /></a>
 										<h2>Looking to get into the Tech field?</h2>
 										<p>
-											Given today's competitive market, it's often difficult to secure an entry-level career
+											Given today's competitive job market, it's often difficult to secure an entry-level position
 											without having some kind of technical foundation. Our course can help!
 										</p>
 									</section>
@@ -84,7 +84,7 @@
 										<a href="#" class="bordered-feature-image"><img src="images/pic02.jpg" alt="" /></a>
 										<h2>Interested in our course?</h2>
 										<p>
-											Our 8-weeks part-time program runs every Saturday from 11AM-3PM inside SFU's Harbour centre in
+											Our 8-week part-time program runs every Saturday from 11AM-3PM inside SFU's Harbour centre in
 											the downtown core. We are looking for brilliant minds to fill these seats.
 										</p>
 									</section>
