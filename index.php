@@ -138,7 +138,7 @@
 										</header>
 										<a href="#" class="feature-image"><img src="images/pic05.jpg" alt="" /></a>
 										<p>
-											We are three recent graduates who are passionate about education and technology.
+											We are three graduates who are passionate about education and technology.
 											Based on the current trends that we see in the Vancouver technology industry, we have come up with
 											courses that will provide students with technical skills so they
 											will be well prepared for their upcoming interviews when they graduate. This course is recommended for non-technical 
