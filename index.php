@@ -45,7 +45,7 @@
 							<div class="6u">
 							
 								<!-- Banner Copy -->
-									<p>Registration for the 2015 Foundations of Web App Development course will be opened on November 12</p>
+									<p>Registration now open for the 2015 Foundations of Web App Development course</p>
 									<a href="" class="button-big">Register!</a>
 
 							</div>
