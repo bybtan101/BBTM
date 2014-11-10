@@ -30,7 +30,6 @@
 								<nav id="nav">
 									<a href="index.php">Home</a>
 									<a href="programs.html">Programs</a>
-									<a href="aboutus.html">About Us</a>
 									<a href="faqs.html">FAQs</a>
 									<a href="contactus.html">Contact Us</a>
 								</nav>
@@ -54,9 +53,9 @@
 											<h3>Place to Provide Feedback</h3>
 										</header>
 										<p>Here at Acceltech, we are dedicated to ensuring that we provide the best course material for our students. If there are any questions or inquiries,
-										   please don't hesitate to shoot us a quick email at inquiries@acceltech.com or fill out the web form below, one of our instructors
-										   will get back to you within 48 hours.</p>
-										 <h3>Please fill out the form below and we will get back to you within 48 hours.</h3>
+										   please don't hesitate to shoot us a quick email by filling out the web form below, one of our instructors
+										   will get back to you as soon as possible.</p>
+										 <h3>Please fill out the form below with your question.</h3>
 											<p id="feedback" style="color: red"><strong><?php 
 											if (isset($_GET['message'])) { 
 												echo $_GET['message']; 

@@ -31,7 +31,6 @@
 								<nav id="nav">
 									<a href="index.php">Home</a>
 									<a href="programs.html">Programs</a>
-									<a href="aboutus.html">About Us</a>
 									<a href="faqs.html">FAQs</a>
 									<a href="contactus.php">Contact Us</a>
 								</nav>
