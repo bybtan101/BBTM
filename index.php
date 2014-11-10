@@ -182,12 +182,11 @@
 											<li>Starts February 7st, 2015</li>
 											<li>Class Capacity set at 30 students</li>
 											<li>Students from all faculties welcome</li>
-											<li>3 hours a week, with lecture and work base learning</li>
+											<li>3 hours a week, with lecture and hands-on experiences</li>
 											<li>Students must bring their own laptop (BYOL model)</li>
 											<li>Students to perform demonstration on their web app</li>
 										</ul>
 									</section>
-
 							</div>
 						</div>
 					</div>
