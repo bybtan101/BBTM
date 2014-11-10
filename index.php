@@ -111,8 +111,8 @@
 										<a href="#" class="bordered-feature-image"><img src="images/pic04.jpg" alt="" /></a>
 										<h2>Our Promise to You</h2>
 										<p>
-											Our highest priority to ensure that students are engaged 
-											and learning. We encourage open channels of communications between student and instructors,
+											Our highest priority is to ensure that students are engaged 
+											and learning. We encourage open channels of communications between students and instructors,
 											with the ultimate goal of improving the student's overall learning experience
 										</p>
 									</section>
