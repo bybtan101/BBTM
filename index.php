@@ -85,7 +85,7 @@
 										<h2>Interested in our course?</h2>
 										<p>
 											Our 8-week part-time program runs every Saturday from 11AM-3PM inside SFU's Harbour centre in
-											the downtown core. We are looking for brilliant minds to fill these seats.
+											downtown. We are looking for curious individuals to fill these seats.
 										</p>
 									</section>
 
@@ -97,8 +97,8 @@
 										<a href="#" class="bordered-feature-image"><img src="images/pic03.jpg" alt="" /></a>
 										<h2>Interested in Building Products?</h2>
 										<p>
-											Our instructor will teach and work along-side students to help build a web application
-											product with various features. Our goal is to give students a taste of what working in the
+											Our instructional team will teach and work along-side students to help build a web application
+											with various features. Our goal is to give students a taste of what working in the
 											real world would be like.
 										</p>
 									</section>
