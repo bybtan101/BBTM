@@ -52,7 +52,7 @@
 											<h2>Contact Us</h2>
 											<h3>Place to Provide Feedback</h3>
 										</header>
-										<p>Here at Acceltech, we are dedicated to ensuring that we provide the best course material for our students. If there are any questions or inquiries,
+										<p>Here at Accel Tech, we are dedicated to ensuring that we provide the best course material for our students. If there are any questions or inquiries,
 										   please don't hesitate to shoot us a quick email by filling out the web form below, one of our instructors
 										   will get back to you as soon as possible.</p>
 										 <h3>Please fill out the form below with your question.</h3>
@@ -78,16 +78,14 @@
 							<div class="3u">
 								
 								<!-- Sidebar -->
-									<section>
-										<header>
+															<section>
 											<h2>Ready to Sign On?</h2>
-										</header>
 										<div id="banner">
-									<div class="container">
+											<div class="container">
 											<div class="6u">
-												<a href="registration.php" class="button-big" style="color:#ffffff;">Register!</a>
+												<a href="" class="button-big" style="color:#ffffff;">Register!</a>
+												</div>
 											</div>
-									</div>
 										</div>
 									</section>
 									<section>
@@ -95,13 +93,12 @@
 											<h2>Course Details</h2>
 										</header>
 										<ul class="link-list">
-											<li><strong>Course Name:</strong><br>Foundations in Web Applications</br></li>
-											<li>Time: <br>Saturday 11:00AM-2:00PM</br></li>
-											<li>Location: <br>SFU Segal School of Business</br></li>
-											<li>Cost: <<br>$395.00 CAD</br></li>
+											<li><strong>Course Name:</strong><br>Foundations in Web App Development</br></li>
+											<li>Start Date: <br>Saturday, February 7th, 2015</br></li>
+											<li>Location: <br>SFU Harbour Centre</br></li>
+											<li>Cost:<br>$300 Earlybird or $350 Regular</br></li>
 										</ul>
 									</section>
-
 							</div>
 						</div>
 					</div>
