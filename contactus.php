@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>Accel Tech Academy</title>
+		<title>InterprIT</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
@@ -24,7 +24,7 @@
 						<div class="12u">
 
 							<!-- Logo -->
-								<h1><a href="#" id="logo">Accel Tech Academy</a></h1>
+								<h1><a href="#" id="logo">InterprIT</a></h1>
 							
 							<!-- Nav -->
 								<nav id="nav">
@@ -52,7 +52,7 @@
 											<h2>Contact Us</h2>
 											<h3>Place to Provide Feedback</h3>
 										</header>
-										<p>Here at Accel Tech, we are dedicated to ensuring that we provide the best course material for our students. If there are any questions or inquiries,
+										<p>Here at InterprIT, we are dedicated to ensuring that we provide the best course material for our students. If there are any questions or inquiries,
 										   please don't hesitate to shoot us a quick email by filling out the web form below and one of our instructors
 										   will get back to you as soon as possible.</p>
 										 <h3>Please fill out the form below with your question.</h3>
@@ -114,7 +114,7 @@
 
 		<!-- Copyright -->
 			<div id="copyright">
-				&copy; Accel Tech. All rights reserved.</a>
+				&copy; InterprIT. All rights reserved.</a>
 			</div>
 	</body>
 </html>
