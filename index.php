@@ -30,7 +30,7 @@
 							<!-- Nav -->
 								<nav id="nav">
 									<a href="index.php">Home</a>
-									<a href="programs.html">Programs</a>
+									<a href="programs.html">Courses</a>
 									<a href="faqs.html">FAQs</a>
 									<a href="contactus.php">Contact Us</a>
 								</nav>
@@ -179,12 +179,12 @@
 										</header>
 										<ul class="check-list">
 											<li>Held at SFU Harbour Centre</li>
-											<li>Starts February 7st, 2015</li>
+											<li>Starts February 7th, 2015</li>
 											<li>Class Capacity set at 30 students</li>
 											<li>Students from all faculties welcome</li>
-											<li>3 hours a week, with lecture and hands-on experiences</li>
+											<li>3 hours a week, with quick concept at start followed by and hands-on exercises</li>
 											<li>Students must bring their own laptop (BYOL model)</li>
-											<li>Students to perform demonstration on their web app</li>
+											<li>Students to perform demonstration on their web app starting week 3</li>
 										</ul>
 									</section>
 							</div>
