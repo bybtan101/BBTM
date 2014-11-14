@@ -182,7 +182,7 @@
 											<li>Starts February 7th, 2015</li>
 											<li>Class Capacity set at 30 students</li>
 											<li>Students from all faculties welcome</li>
-											<li>3 hours a week, with quick concept at start followed by and hands-on exercises</li>
+											<li>3 hours a week, with quick concept at start followed by hands-on exercises</li>
 											<li>Students must bring their own laptop (BYOL model)</li>
 											<li>Students to perform demonstration on their web app starting week 3</li>
 										</ul>
