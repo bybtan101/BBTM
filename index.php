@@ -35,7 +35,7 @@
 						
 							<!-- Logo -->
 								<h1><a href="#" id="logo">InterprIT</a></h1>
-								<a href="#" class=""><img src="images/logo.png" alt="" /></a>
+								<a href="#" class=""><img src="images/logo1.png" alt="" /></a>
 							
 							<!-- Nav -->
 								<nav id="nav">
