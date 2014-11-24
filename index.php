@@ -53,7 +53,7 @@
 								<td>&nbsp;</td>
 								<td>&nbsp;</td>
 								<td>&nbsp;</td>
-								<a href="#" class=""><img src="images/logo1.png" alt="" /></a>
+								<a href="#" class=""><img src="images/logo2.png" alt="" /></a>
 							
 							<!-- Nav -->
 								<nav id="nav">
