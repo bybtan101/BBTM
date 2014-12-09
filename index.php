@@ -37,11 +37,6 @@
 								<p></p>
 								<td>&nbsp;</td>
 								<td>&nbsp;</td>
-								<td>&nbsp;</td>
-								<td>&nbsp;</td>
-								<td>&nbsp;</td>
-								<td>&nbsp;</td>
-								<td>&nbsp;</td>
 								<a href="#" class=""><img src="images/logo2.png" alt="" /></a>
 							
 							<!-- Nav -->
