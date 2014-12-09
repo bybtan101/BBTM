@@ -34,7 +34,10 @@
 						<div class="12u">
 
 							<!-- Logo -->
-								<h1><a href="#" id="logo">InterprIT</a></h1>
+								<p></p>
+								<td>&nbsp;</td>
+								<td>&nbsp;</td>
+								<a href="#" class=""><img src="images/logo2.png" alt="" /></a>
 							
 							<!-- Nav -->
 								<nav id="nav">
