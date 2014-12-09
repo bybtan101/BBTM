@@ -34,7 +34,7 @@
 						<div class="12u">
 						
 							<!-- Logo -->
-								<h1><a href="#" id="logo">InterprIT</a></h1>
+								<h1><a href="#" id="logo"></a></h1>
 								<td>&nbsp;</td>
 								<td>&nbsp;</td>
 								<td>&nbsp;</td>
