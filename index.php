@@ -34,7 +34,7 @@
 						<div class="12u">
 						
 							<!-- Logo -->
-								<h1><a href="#" id="logo"></a></h1>
+								<p></p>
 								<td>&nbsp;</td>
 								<td>&nbsp;</td>
 								<td>&nbsp;</td>
