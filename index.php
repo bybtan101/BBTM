@@ -148,7 +148,7 @@
 											<h2>Collaboration with MISA</h2>
 											<h3>Quick Updates</h3>
 										</header>
-										<a href="#"><img src="images/misa.jpg" alt="" /></a>
+										<a href="#" class="feature-image"><img src="images/misa.jpg" alt="" /></a>
 										<p>
 											InterprIT's proud to be collaborating with SFU's Management Information Systems Association (MISA) to pilot the first course to be taught at Harbour Centre in early 2015. The collaboration
 											so far has proven to be very successful and InterprIT's first class will be commencing in late January in the new year. To find out more about SFU MISA 
