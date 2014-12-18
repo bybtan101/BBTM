@@ -146,16 +146,21 @@
 									<section>
 										<header>
 											<h2>Who We Are</h2>
-											<h3>From the Founders of InterprIT</h3>
+											<h3>InterprIT's Collaboration with MISA</h3>
 										</header>
-										<a href="#" class="feature-image"><img src="images/pic05.jpg" alt="" /></a>
+										<a href="#" class="feature-image"><img src="images/misa.jpg" alt="" /></a>
 										<p>
-											We are three graduates who are passionate about education and technology.
-											Based on the current trends that we see in the Vancouver technology industry, we have come up with
-											courses that will provide students with technical skills so they
-											will be well prepared for their upcoming interviews when they graduate. This course is recommended for non-technical 
-											students that want to either get started or pursue a career in the technology field.
+											InterprIT's proud to be collaborating with SFU's Management Information Systems Association (MISA) to pilot the first course to be taught at Harbour Centre in early 2015. The collaboration
+											so far has proven to be very successful and InterprIT's first class will be commencing in late January in the new year.											
 										</p>
+										<p>The Management Information Systems Association (MISA) is a leading business club whose goal
+											is to promote MIS concentration among the Beedie student body. Students are encouraged to
+											develop their skills through various workshops that are held throughout the year and to expand their
+											knowledge about the MIS field outside of SFU through hosted company tours. MISA also strives to provide
+											opportunities for their membership to become involved and to contibute to the technology community.SFU MISA thrives 
+											to be the leader in connecting SFU students interested in MIS with MIS industry professionals. To find out more about SFU MISA 
+											and upcoming events, please visit <a href="www.facebook.com/misasfu">here</a>.
+									    </p>
 									</section>
 
 							</div>
