@@ -154,12 +154,8 @@
 											so far has proven to be very successful and InterprIT's first class will be commencing in late January in the new year.											
 										</p>
 										<p>The Management Information Systems Association (MISA) is a leading business club whose goal
-											is to promote MIS concentration among the Beedie student body. Students are encouraged to
-											develop their skills through various workshops that are held throughout the year and to expand their
-											knowledge about the MIS field outside of SFU through hosted company tours. MISA also strives to provide
-											opportunities for their membership to become involved and to contibute to the technology community.SFU MISA thrives 
-											to be the leader in connecting SFU students interested in MIS with MIS industry professionals. To find out more about SFU MISA 
-											and upcoming events, please visit <a href="www.facebook.com/misasfu">here</a>.
+											is to promote MIS concentration among the Beedie student body. To find out more about SFU MISA 
+											and upcoming events, please visit <a href="https://www.facebook.com/MISASFU">here</a>.
 									    </p>
 									</section>
 
