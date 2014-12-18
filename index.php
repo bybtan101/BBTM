@@ -150,9 +150,10 @@
 										</header>
 										<a href="#" class="feature-image"><img src="images/misa.jpg" alt="misa" width="150" height="250"/></a>
 										<p>
-											InterprIT's proud to be collaborating with SFU's Management Information Systems Association (MISA) to pilot the first course to be taught at Harbour Centre in early 2015. The collaboration
-											so far has proven to be very successful and InterprIT's first class will be commencing in late January in the new year. To find out more about SFU MISA 
-											and upcoming events, please visit <a href="https://www.facebook.com/MISASFU">here</a>.
+											InterprIT's proud to be collaborating with SFU's Management Information Systems Association (MISA) to pilot the first course to be taught at Harbour Centre in early 2015. 
+											MISA is a leading business club whose goal
+											is to promote MIS concentration among the Beedie student body. MISA also strives to provide
+											opportunities for their membership to become involved and to contribute to the technology community. To find out about upcoming events, please visit <a href="https://www.facebook.com/MISASFU">here</a>.
 									    </p>
 									</section>
 
