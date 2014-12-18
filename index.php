@@ -146,7 +146,7 @@
 									<section>
 										<header>
 											<h2>Collaboration with SFU MISA</h2>
-											<h3>Some Details</h3>
+											<h3>Some Updates</h3>
 										</header>
 										<a href="#" class="feature-image"><img src="images/misa.jpg" alt="misa" width="150" height="250"/></a>
 										<p>
