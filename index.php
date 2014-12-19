@@ -57,7 +57,7 @@
 							
 								<!-- Banner Copy -->
 									<p>Registration now full for the Spring 2015 Foundations of Web App Development course.</p>
-									<a href="https://www.eventbrite.ca/e/accel-tech-and-misa-presents-foundations-of-web-app-development-tickets-14256861657" class="button-big">Register!</a>
+									<a href="https://www.eventbrite.ca/e/accel-tech-and-misa-presents-foundations-of-web-app-development-tickets-14256861657" class="button-big">Join Waitlist</a>
 
 							</div>
 							<div class="6u">
