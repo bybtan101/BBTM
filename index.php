@@ -56,7 +56,7 @@
 							<div class="6u">
 							
 								<!-- Banner Copy -->
-									<p>Registration now open for the 2015 Foundations of Web App Development course</p>
+									<p>Registration now full for the Spring 2015 Foundations of Web App Development course.</p>
 									<a href="https://www.eventbrite.ca/e/accel-tech-and-misa-presents-foundations-of-web-app-development-tickets-14256861657" class="button-big">Register!</a>
 
 							</div>
@@ -96,7 +96,7 @@
 										<a href="#" class="bordered-feature-image"><img src="images/pic02.jpg" alt="" /></a>
 										<h2>Interested in our course?</h2>
 										<p>
-											Our 8-week part-time program runs every Saturday from 11AM-3PM inside SFU's Harbour Centre in
+											Our 8-week part-time program runs every Saturday from 11AM-3PM inside SFU's Segal School of Business in
 											downtown. We are looking for curious individuals to fill these seats.
 										</p>
 									</section>
@@ -150,7 +150,7 @@
 										</header>
 										<a href="#" class="feature-image"><img src="images/misa.jpg" alt="misa" width="150" height="250"/></a>
 										<p>
-											InterprIT's proud to be working with SFU's Management Information Systems Association (MISA) to pilot the first foundations course to be taught in early 2015. 
+											InterprIT's proud to be working with SFU's Management Information Systems Association (MISA) to pilot the first foundations course starting January 31, 2015. 
 											MISA is a leading business club whose goal
 											is to promote MIS and technology among the Beedie student body. They also strives to provide
 											opportunities for their members to become involved in the technology community. 
@@ -190,13 +190,13 @@
 											<h3>Course Details</h3>
 										</header>
 										<ul class="check-list">
-											<li>Held at SFU Harbour Centre</li>
-											<li>Starts February 7th, 2015</li>
+											<li>Held at SFU Segal Room 4800</li>
+											<li>Starts January 31st, 2015</li>
 											<li>Class Capacity set at 30 students</li>
 											<li>Students from all faculties welcome</li>
 											<li>3 hours a week, with quick concept at start followed by hands-on exercises</li>
 											<li>Students must bring their own laptop (BYOL model)</li>
-											<li>Students to perform demonstration on their web app starting week 3</li>
+											<li>Students to perform demonstration on their web app starting week three</li>
 										</ul>
 									</section>
 							</div>

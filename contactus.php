@@ -107,8 +107,8 @@
 										</header>
 										<ul class="link-list">
 											<li><strong>Course Name:</strong><br>Foundations of Web App Development</br></li>
-											<li>Start Date: <br>Saturday, February 7th, 2015</br></li>
-											<li>Location: <br>SFU Harbour Centre</br></li>
+											<li>Start Date: <br>Saturday, January 31st, 2015</br></li>
+											<li>Location: <br>SFU Segal Room 4800</br></li>
 											<li>Cost:<br>$300 Earlybird or $350 Regular</br></li>
 										</ul>
 									</section>
