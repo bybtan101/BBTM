@@ -34,15 +34,17 @@
 						<div class="12u">
 
 							<!-- Logo -->
-								<h1><a href="#" id="logo">Acceltech Academy</a></h1>
+								<p></p>
+								<td>&nbsp;</td>
+								<td>&nbsp;</td>
+								<a href="#" class=""><img src="images/logo2.png" alt="" /></a>
 							
 							<!-- Nav -->
 								<nav id="nav">
-									<a href="index.html">Home</a>
+									<a href="index.php">Home</a>
 									<a href="programs.html">Programs</a>
-									<a href="Aboutus.html">About Us</a>
-									<a href="FAQs.html">FAQs</a>
-									<a href="Contactus.html">Contact Us</a>
+									<a href="faqs.html">FAQs</a>
+									<a href="contactus.php">Contact Us</a>
 								</nav>
 
 						</div>
