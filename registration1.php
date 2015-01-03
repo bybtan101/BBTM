@@ -75,21 +75,12 @@
 											<td><b>Email address*:</b></td>
 											<td><input id="FromEmailAddress" name="FromEmailAddress" type="text" maxlength="60" style="width:300px; border:1px solid #999999" /></td>
 											</tr><tr>
-											<td><b>Work Phone:</b></td>
-											<td><input id="WorkPhone" name="WorkPhone" type="text" maxlength="43" style="width:250px; border:1px solid #999999" /></td>
-											</tr><tr>
-											</tr><tr>
-											<td><b>Cell Phone:</b></td>
-											<td><input id="CellPhone" name="CellPhone" type="text" maxlength="43" style="width:250px; border:1px solid #999999" /></td>
-											<td colspan="2" align="center">
+								<!----Fixed to add comments section--->
+											<br>Comments: 
+											<br>
+											<textarea name="Comments" cols=50 rows=8></textarea>
+								<!----End Fix-->
 											<br />
-											<table border="0" cellpadding="0" cellspacing="0">
-											<tr valign="top">
-										
-											</tr>
-											</table>
-											<br />
-											* - Please note the $50 is non-refundable upon purchase &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 											<input id="skip_Submit" name="skip_Submit" type="submit" value="Submit" />
 											</td>
 											</tr>

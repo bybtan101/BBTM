@@ -51,8 +51,8 @@
 								<!-- Main Content -->
 									<section>
 										<header>
-											<h2>Registration Successful</h2>
-											<h3>Your registration has been successfully received!</h3>
+											<h2>Question Submitted!</h2>
+											<h3>Your question was successfully submitted.</h3>
 										</header>																		
 									</section>
 							</div>
