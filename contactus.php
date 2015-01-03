@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>InterprIT</title>
+		<title>Acceltech Academy</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
@@ -9,21 +9,12 @@
 		<script src="js/config.js"></script>
 		<script src="js/skel.min.js"></script>
 		<script src="js/skel-panels.min.js"></script>
+		<script src="js/main.js"></script>
 		<noscript>
 			<link rel="stylesheet" href="css/skel-noscript.css" />
 			<link rel="stylesheet" href="css/style.css" />
 			<link rel="stylesheet" href="css/style-desktop.css" />
 		</noscript>
-		<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-56982153-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
 	</head>
 	<body class="subpage">
 
@@ -34,17 +25,15 @@
 						<div class="12u">
 
 							<!-- Logo -->
-								<p></p>
-								<td>&nbsp;</td>
-								<td>&nbsp;</td>
-								<a href="#" class=""><img src="images/logo2.png" alt="" /></a>
+								<h1><a href="#" id="logo">Acceltech Academy</a></h1>
 							
 							<!-- Nav -->
 								<nav id="nav">
-									<a href="index.php">Home</a>
+									<a href="index.html">Home</a>
 									<a href="programs.html">Programs</a>
-									<a href="faqs.html">FAQs</a>
-									<a href="contactus.html">Contact Us</a>
+									<a href="Aboutus.html">About Us</a>
+									<a href="FAQs.html">FAQs</a>
+									<a href="Contactus.html">Contact Us</a>
 								</nav>
 
 						</div>
@@ -64,34 +53,50 @@
 										<header>
 											<h2>Contact Us</h2>
 											<h3>Place to Provide Feedback</h3>
+											
 										</header>
 										<p>Here at InterprIT, we are dedicated to ensuring that we provide the best course material for our students. If there are any questions or inquiries,
-										   please don't hesitate to shoot us a quick email by filling out the web form below and one of our instructors
+										   please don't hesitate to fill out the web form below and one of our instructors
 										   will get back to you as soon as possible.</p>
-										 <h3>Please fill out the form below with your question.</h3>
-											<p id="feedback" style="color: red"><strong><?php 
-											if (isset($_GET['message'])) { 
-												echo $_GET['message']; 
-											} 
-										?></strong>
-											<form action="contact_success.php" method="post">
-											<br>Full Name: <input style="margin: 0 0 0.3em 0;" type="text" name="Full Name">
-											<br>E-mail:<input style="margin: 0 0 0.3em 1.3em;" type="text" name="Email Address">
-											<br>Subject:<input style="margin: 0 0 0.3em 0.9em;" type="text" name="Subject Line">
-											<br>Comments: 
-											<br>
-											<textarea name="Comments" cols=50 rows=8></textarea>
-											<br>
-											<input type="submit" value="Submit Question">
-											<input type="reset" value="Clear Form">
-										</form>
-									</section>
-
+										<h2>Form</h2>
+										<p id="feedback"><?php echo $feedback; ?></p>
+											<form action="registration_submit.php" method="post">
+											<input id="SnapHostID" name="SnapHostID" type="hidden" value="QZM4Q2PMXHJA" />
+											<table border="0" cellpadding="5" cellspacing="0" width="600">
+											<tr>
+											<td><b>Full Name</td>
+											<td>
+											<input id="FirstName" name="FirstName" type="text" maxlength="60" style="width:146px; border:1px solid #999999" />
+											<input id="LastName" name="LastName" type="text" maxlength="60" style="width:146px; border:1px solid #999999" />
+											</td>
+											</tr><tr>
+											<td><b>Institution:</b></td>
+											<td><input id="Organization" name="Organization" type="text" maxlength="60" style="width:300px; border:1px solid #999999" /></td>
+											</tr><tr>
+											<td><b>Email*:</b></td>
+											<td><input id="FromEmailAddress" name="FromEmailAddress" type="text" maxlength="60" style="width:300px; border:1px solid #999999" /></td>
+											</tr><tr>
+											<td><b>Comments:</b></td>
+											<td><input id="CellPhone" name="CellPhone" type="text" maxlength="300" style="length:500px; border:1px solid #999999" /></td>
+											<td colspan="2" align="center">
+											<table border="0" cellpadding="0" cellspacing="0">
+											<tr valign="top">
+										
+											</tr>
+											</table>
+											</td>
+											</tr>
+											</table>
+											<br />
+											<p align="left">
+											   <input id="skip_Submit" name="skip_Submit" type="submit" value="Submit" /></p>
+											</form>
+								</section>
 							</div>
 							<div class="3u">
 								
 								<!-- Sidebar -->
-															<section>
+									<section>
 											<h2>Ready to Sign On?</h2>
 										<div id="banner">
 											<div class="container">
@@ -118,6 +123,7 @@
 				</div>
 			</div>
 
+
 		<!-- Footer -->
 			<div id="footer-wrapper">
 				<footer id="footer" class="container">
@@ -127,7 +133,7 @@
 
 		<!-- Copyright -->
 			<div id="copyright">
-				&copy; InterprIT. All rights reserved.</a>
+				&copy; Acceltech Inc. All rights reserved.</a>
 			</div>
 	</body>
 </html>
