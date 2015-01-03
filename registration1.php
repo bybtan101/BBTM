@@ -75,9 +75,11 @@
 											<td><input id="FromEmailAddress" name="FromEmailAddress" type="text" maxlength="60" style="width:300px; border:1px solid #999999" /></td>
 											</tr><tr>
 								<!----Fixed to add comments section--->
-											<br>Comments: 
+											<tr>
+											<td><b>Comments: 
 											<br>
 											<textarea name="Comments" cols=50 rows=8></textarea>
+											</td>
 								<!----End Fix-->
 											<br />
 											<input id="skip_Submit" name="skip_Submit" type="submit" value="Submit" />
