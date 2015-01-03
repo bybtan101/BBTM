@@ -84,7 +84,7 @@
 										
 											</tr>
 											</table>
-											<td><input id="skip_Submit" name="skip_Submit" type="submit" value="Submit" /></td>
+											<td><input id="skip_Submit" name="skip_Submit" type="submit" value="Submit" style="float: left; /></td>
 											</tr>
 											</table>
 											<br />
