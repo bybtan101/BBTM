@@ -10,7 +10,6 @@ $firstName 		= filter_input(INPUT_POST, "FirstName");
 $lastName 		= filter_input(INPUT_POST, "LastName");
 $organization 	= filter_input(INPUT_POST, "Organization");
 $emailAddr 		= filter_input(INPUT_POST, "FromEmailAddress", FILTER_VALIDATE_EMAIL);
-$workPhone 		= filter_input(INPUT_POST, "WorkPhone");
 $cellPhone 		= filter_input(INPUT_POST, "CellPhone");
 
 $error 			= true;
@@ -24,7 +23,7 @@ else if ($lastName === FALSE || $lastName == null) {
 	$message = "Last Name is required";
 }
 else if ($organization === FALSE || $organization == null) {
-	$message = "Institution is required";
+	$message = "Comments Required";
 }
 else if ($emailAddr === FALSE || $emailAddr == null) {
 	$message = "Email address is required and must be a valid email address";
@@ -38,7 +37,6 @@ else {
 	$lastName
 	$organization
 	$emailAddr
-	$workPhone
 	$cellPhone
 
 EMAIL;

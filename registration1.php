@@ -69,14 +69,10 @@
 											<td><b>Institution:</b></td>
 											<td><input id="Organization" name="Organization" type="text" maxlength="60" style="width:300px; border:1px solid #999999" /></td>
 											</tr><tr>
-											<td><b>Email address*:</b></td>
+											<td><b>Email*:</b></td>
 											<td><input id="FromEmailAddress" name="FromEmailAddress" type="text" maxlength="60" style="width:300px; border:1px solid #999999" /></td>
 											</tr><tr>
-											<td><b>Work Phone:</b></td>
-											<td><input id="WorkPhone" name="WorkPhone" type="text" maxlength="43" style="width:250px; border:1px solid #999999" /></td>
-											</tr><tr>
-											</tr><tr>
-											<td><b>Cell Phone:</b></td>
+											<td><b>Contact Number:</b></td>
 											<td><input id="CellPhone" name="CellPhone" type="text" maxlength="43" style="width:250px; border:1px solid #999999" /></td>
 											<td colspan="2" align="center">
 											<br />
