@@ -51,11 +51,10 @@
 								<!-- Main Content -->
 									<section>
 										<header>
-											<h2>Registration</h2>
-											<h3>Thanks for your interst in registering for this course. The first step is to fill out some contact information. Once completed, you will be directed to our paypal partners
-											where a deposit of $50 is charged for reservation for this course while the remaining amount can be presented as a cheque or cash on the first week of class. 
-											Afterwards, you will get a email confirmation with the order confirmation code, that will be your unique
-											student number for this specific class. </h3>
+											<h2>Contact Us</h2>
+											<p>Here at InterprIT, we are dedicated to ensuring that we provide the best course material for our students. If there are any questions or inquiries,
+										   please fill out the web form below and one of our instructors
+										   will get back to you within 48 hours.</p>
 										</header>
 										<h2>Step 1: Registration</h2>
 										<p id="feedback"><?php echo $feedback; ?></p>
