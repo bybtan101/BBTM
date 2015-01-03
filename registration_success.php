@@ -60,15 +60,13 @@
 								
 								<!-- Sidebar -->
 									<section>
-										<header>
 											<h2>Ready to Sign On?</h2>
-										</header>
 										<div id="banner">
-									<div class="container">
+											<div class="container">
 											<div class="6u">
-												<a href="registration.php" class="button-big" style="color:#ffffff;">Register!</a>
+												<a href="https://www.eventbrite.ca/e/accel-tech-and-misa-presents-foundations-of-web-app-development-tickets-14256861657" class="button-big" style="color:#ffffff;">Register!</a>
+												</div>
 											</div>
-									</div>
 										</div>
 									</section>
 									<section>
@@ -76,18 +74,18 @@
 											<h2>Course Details</h2>
 										</header>
 										<ul class="link-list">
-											<li><strong>Course Name:</strong><br>Foundations in Web Applications</br></li>
-											<li>Time: <br>Saturday 11:00AM-2:00PM</br></li>
-											<li>Location: <br>SFU Segal School of Business</br></li>
-											<li>Cost: <<br>$395.00 CAD</br></li>
+											<li><strong>Course Name:</strong><br>Foundations of Web App Development</br></li>
+											<li>Start Date: <br>Saturday, January 31st, 2015</br></li>
+											<li>Location: <br>SFU Segal Room 4800</br></li>
+											<li>Cost:<br>$300 Earlybird or $350 Regular</br></li>
 										</ul>
 									</section>
-
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
+
 
 
 		<!-- Footer -->
