@@ -60,13 +60,15 @@
 								
 								<!-- Sidebar -->
 									<section>
+										<header>
 											<h2>Ready to Sign On?</h2>
+										</header>
 										<div id="banner">
-											<div class="container">
+									<div class="container">
 											<div class="6u">
 												<a href="registration.php" class="button-big" style="color:#ffffff;">Register!</a>
-												</div>
 											</div>
+									</div>
 										</div>
 									</section>
 									<section>
@@ -80,11 +82,13 @@
 											<li>Cost: <<br>$395.00 CAD</br></li>
 										</ul>
 									</section>
+
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
+
 
 		<!-- Footer -->
 			<div id="footer-wrapper">

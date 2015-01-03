@@ -52,8 +52,12 @@
 									<section>
 										<header>
 											<h2>Contact Us</h2>
+											<h3>Place to Provide Feedback</h3>
 											<h3>Please fill out the form below for any questions regarding this course or InterprIT.</h3>
 										</header>
+										<p>Here at InterprIT, we are dedicated to ensuring that we provide the best course material for our students. If there are any questions or inquiries,
+										   please don't hesitate to fill out the web form below and one of our instructors
+										   will get back to you as soon as possible.</p>
 										<h2>Form</h2>
 										<p id="feedback"><?php echo $feedback; ?></p>
 											<form action="registration_submit.php" method="post">
@@ -100,7 +104,7 @@
 										<div id="banner">
 									<div class="container">
 											<div class="6u">
-												<a href="#" class="button-big">Register!</a>
+												<a href="registration.php" class="button-big" style="color:#ffffff;">Register!</a>
 											</div>
 									</div>
 										</div>
