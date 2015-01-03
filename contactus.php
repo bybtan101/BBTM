@@ -69,7 +69,7 @@
 										<p>Here at InterprIT, we are dedicated to ensuring that we provide the best course material for our students. If there are any questions or inquiries,
 										   please don't hesitate to fill out the web form below and one of our instructors
 										   will get back to you as soon as possible.</p>
-										<h2>Form</h2>
+										<h2>Question Form</h2>
 										<p id="feedback"><?php echo $feedback; ?></p>
 											<form action="registration_submit.php" method="post">
 											<input id="SnapHostID" name="SnapHostID" type="hidden" value="QZM4Q2PMXHJA" />
