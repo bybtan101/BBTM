@@ -52,10 +52,9 @@
 									<section>
 										<header>
 											<h2>Contact Us</h2>
-											<p>Here at InterprIT, we are dedicated to ensuring that we provide the best course material for our students. If there are any questions or inquiries,
-										   please fill out the web form below and one of our instructors
-										   will get back to you within 48 hours.</p>
+											<h3>Please fill out the form below for any questions regarding this course or InterprIT.</h3>
 										</header>
+										<h2>Form</h2>
 										<p id="feedback"><?php echo $feedback; ?></p>
 											<form action="registration_submit.php" method="post">
 											<input id="SnapHostID" name="SnapHostID" type="hidden" value="QZM4Q2PMXHJA" />
@@ -67,11 +66,27 @@
 											<input id="LastName" name="LastName" type="text" maxlength="60" style="width:146px; border:1px solid #999999" />
 											</td>
 											</tr><tr>
+											<td><b>Institution:</b></td>
+											<td><input id="Organization" name="Organization" type="text" maxlength="60" style="width:300px; border:1px solid #999999" /></td>
+											</tr><tr>
 											<td><b>Email address*:</b></td>
 											<td><input id="FromEmailAddress" name="FromEmailAddress" type="text" maxlength="60" style="width:300px; border:1px solid #999999" /></td>
 											</tr><tr>
-											<td><b>Comments:</b></td>
-											<td><input id="Organization" name="Organization" type="text" cols=50 rows=8 /></td>
+											<td><b>Work Phone:</b></td>
+											<td><input id="WorkPhone" name="WorkPhone" type="text" maxlength="43" style="width:250px; border:1px solid #999999" /></td>
+											</tr><tr>
+											</tr><tr>
+											<td><b>Cell Phone:</b></td>
+											<td><input id="CellPhone" name="CellPhone" type="text" maxlength="43" style="width:250px; border:1px solid #999999" /></td>
+											<td colspan="2" align="center">
+											<br />
+											<table border="0" cellpadding="0" cellspacing="0">
+											<tr valign="top">
+										
+											</tr>
+											</table>
+											<br />
+											* - Please note the $50 is non-refundable upon purchase &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 											<input id="skip_Submit" name="skip_Submit" type="submit" value="Submit" />
 											</td>
 											</tr>
