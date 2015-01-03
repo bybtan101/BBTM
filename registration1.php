@@ -72,8 +72,8 @@
 											<td><b>Email*:</b></td>
 											<td><input id="FromEmailAddress" name="FromEmailAddress" type="text" maxlength="60" style="width:300px; border:1px solid #999999" /></td>
 											</tr><tr>
-											<td><b>Contact Number:</b></td>
-											<td><input id="CellPhone" name="CellPhone" type="text" maxlength="43" style="width:250px; border:1px solid #999999" /></td>
+											<td><b>Comments:</b></td>
+											<td><input id="CellPhone" name="CellPhone" type="text" maxlength="200" style="length:500px; border:1px solid #999999" /></td>
 											<td colspan="2" align="center">
 											<br />
 											<table border="0" cellpadding="0" cellspacing="0">
@@ -82,7 +82,6 @@
 											</tr>
 											</table>
 											<br />
-											* - Please note the $50 is non-refundable upon purchase &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 											<input id="skip_Submit" name="skip_Submit" type="submit" value="Submit" />
 											</td>
 											</tr>
