@@ -71,10 +71,7 @@
 											<td><input id="FromEmailAddress" name="FromEmailAddress" type="text" maxlength="60" style="width:300px; border:1px solid #999999" /></td>
 											</tr><tr>
 											<td><b>Comments:</b></td>
-											<td><input id="Organization" name="Organization" type="text" maxlength="60" style="width:300px; border:1px solid #999999" /></td>
-											<textarea name="Comments" cols=50 rows=8></textarea>
-								<!----End Fix-->
-											<br />
+											<td><input id="Organization" name="Organization" type="text" maxlength="60" cols=50 rows=8 style="width:300px; border:1px solid #999999" /></td>
 											<input id="skip_Submit" name="skip_Submit" type="submit" value="Submit" />
 											</td>
 											</tr>
