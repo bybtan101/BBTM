@@ -1,8 +1,8 @@
 <?php
 require("vendor/autoload.php");
 
-$to = 'bybentan@gmail.com';
-$subject = 'BBTM New Registration';
+$to = 'reneekchau134@gmail.com';
+$subject = 'Foundation of Web App Dev Questions';
 
 // Pull the information from the request (POST variable)
 // http://php.net/manual/en/function.filter-input.php
@@ -68,7 +68,7 @@ EMAIL;
 // Redirect back to your registration page.
 // http://php.net/manual/en/function.header.php
 if ($error) {
-	header("Location: registration.php?message=$message&error=$error");
+	header("Location: registration1.php?message=$message&error=$error");
 }
 else {
 	header("Location: registration_success.php"); 
