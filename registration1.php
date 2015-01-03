@@ -56,7 +56,6 @@
 										   please fill out the web form below and one of our instructors
 										   will get back to you within 48 hours.</p>
 										</header>
-										<h2>Step 1: Registration</h2>
 										<p id="feedback"><?php echo $feedback; ?></p>
 											<form action="registration_submit.php" method="post">
 											<input id="SnapHostID" name="SnapHostID" type="hidden" value="QZM4Q2PMXHJA" />
@@ -68,18 +67,12 @@
 											<input id="LastName" name="LastName" type="text" maxlength="60" style="width:146px; border:1px solid #999999" />
 											</td>
 											</tr><tr>
-											<td><b>Institution:</b></td>
-											<td><input id="Organization" name="Organization" type="text" maxlength="60" style="width:300px; border:1px solid #999999" /></td>
-											</tr><tr>
 											<td><b>Email address*:</b></td>
 											<td><input id="FromEmailAddress" name="FromEmailAddress" type="text" maxlength="60" style="width:300px; border:1px solid #999999" /></td>
 											</tr><tr>
-								<!----Fixed to add comments section--->
-											<tr>
-											<td><b>Comments: 
-											<br>
+											<td><b>Comments:</b></td>
+											<td><input id="Organization" name="Organization" type="text" maxlength="60" style="width:300px; border:1px solid #999999" /></td>
 											<textarea name="Comments" cols=50 rows=8></textarea>
-											</td>
 								<!----End Fix-->
 											<br />
 											<input id="skip_Submit" name="skip_Submit" type="submit" value="Submit" />
