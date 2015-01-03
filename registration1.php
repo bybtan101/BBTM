@@ -53,7 +53,7 @@
 										<header>
 											<h2>Contact Us</h2>
 											<h3>Place to Provide Feedback</h3>
-											<h3>Please fill out the form below for any questions regarding this course or InterprIT.</h3>
+											
 										</header>
 										<p>Here at InterprIT, we are dedicated to ensuring that we provide the best course material for our students. If there are any questions or inquiries,
 										   please don't hesitate to fill out the web form below and one of our instructors
@@ -77,17 +77,14 @@
 											<td><input id="FromEmailAddress" name="FromEmailAddress" type="text" maxlength="60" style="width:300px; border:1px solid #999999" /></td>
 											</tr><tr>
 											<td><b>Comments:</b></td>
-											<td><input id="CellPhone" name="CellPhone" type="text" maxlength="200" style="length:500px; border:1px solid #999999" /></td>
+											<td><input id="CellPhone" name="CellPhone" type="text" maxlength="300" style="length:500px; border:1px solid #999999" /></td>
 											<td colspan="2" align="center">
-											<br />
 											<table border="0" cellpadding="0" cellspacing="0">
 											<tr valign="top">
 										
 											</tr>
 											</table>
-											<br />
-											<input id="skip_Submit" name="skip_Submit" type="submit" value="Submit" />
-											</td>
+											<td><input id="skip_Submit" name="skip_Submit" type="submit" value="Submit" /></td>
 											</tr>
 											</table>
 											<br />
