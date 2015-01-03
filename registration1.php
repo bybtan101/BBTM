@@ -84,11 +84,12 @@
 										
 											</tr>
 											</table>
-											<p align="left">
-											   <input id="skip_Submit" name="skip_Submit" type="submit" value="Submit" /></p></td>
+											</td>
 											</tr>
 											</table>
 											<br />
+											<p align="left">
+											   <input id="skip_Submit" name="skip_Submit" type="submit" value="Submit" /></p>
 											</form>
 								</section>
 							</div>
