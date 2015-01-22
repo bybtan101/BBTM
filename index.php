@@ -56,7 +56,7 @@
 							<div class="6u">
 							
 								<!-- Banner Copy -->
-									<p>Registration now full for the Spring 2015 Foundations of Web App Development course.</p>
+									<p>Registration now full for the Spring 2015 Foundations of Web App Development program.</p>
 									<a href="https://www.eventbrite.ca/e/accel-tech-and-misa-presents-foundations-of-web-app-development-tickets-14256861657" class="button-big">Join Waitlist</a>
 
 							</div>
@@ -84,7 +84,7 @@
 										<h2>Looking to get into the Tech field?</h2>
 										<p>
 											Given today's competitive job market, it's often difficult to secure an entry-level position
-											without having some kind of technical foundation. Our course can help!
+											without having some kind of technical foundation. Our program can help!
 										</p>
 									</section>
 
@@ -94,7 +94,7 @@
 								<!-- Feature #2 -->
 									<section>
 										<a href="#" class="bordered-feature-image"><img src="images/pic02.jpg" alt="" /></a>
-										<h2>Interested in our course?</h2>
+										<h2>Interested in our Program?</h2>
 										<p>
 											Our 8-week part-time program runs every Saturday from 11AM-3PM inside SFU's Segal School of Business in
 											downtown. We are looking for curious individuals to fill these seats.
@@ -150,7 +150,7 @@
 										</header>
 										<a href="#" class="feature-image"><img src="images/misa.jpg" alt="misa" width="150" height="250"/></a>
 										<p>
-											InterprIT's proud to be working with SFU's Management Information Systems Association (MISA) to pilot the first foundations course starting January 31, 2015. 
+											InterprIT's proud to be working with SFU's Management Information Systems Association (MISA) to pilot the first foundations program starting January 31, 2015. 
 											MISA is a leading business club whose goal
 											is to promote MIS and technology among the Beedie student body. They also strives to provide
 											opportunities for their members to become involved in the technology community. 
@@ -164,7 +164,7 @@
 								<!-- Box #2 -->
 									<section>
 										<header>
-											<h2>What our Course Offers</h2>
+											<h2>What our program Offers</h2>
 											<h3>Students will learn the following skills:</h3>
 										</header>
 										<ul class="check-list">
@@ -187,7 +187,7 @@
 									<section>
 										<header>
 											<h2>Foundations of Web App Development</h2>
-											<h3>Course Details</h3>
+											<h3>Program Details</h3>
 										</header>
 										<ul class="check-list">
 											<li>Held at SFU Segal Room 4800</li>

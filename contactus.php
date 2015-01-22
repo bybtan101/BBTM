@@ -66,7 +66,7 @@
 											<h3>Place to Provide Feedback</h3>
 											
 										</header>
-										<p>Here at InterprIT, we are dedicated to ensuring that we provide the best course material for our students. If there are any questions or inquiries,
+										<p>Here at InterprIT, we are dedicated to ensuring that we provide the best program material for our students. If there are any questions or inquiries,
 										   please don't hesitate to fill out the web form below and one of our instructors
 										   will get back to you as soon as possible.</p>
 										<h2>Question Form</h2>
@@ -119,10 +119,10 @@
 									</section>
 									<section>
 										<header>
-											<h2>Course Details</h2>
+											<h2>Program Details</h2>
 										</header>
 										<ul class="link-list">
-											<li><strong>Course Name:</strong><br>Foundations of Web App Development</br></li>
+											<li><strong>Program Name:</strong><br>Foundations of Web App Development</br></li>
 											<li>Start Date: <br>Saturday, January 31st, 2015</br></li>
 											<li>Location: <br>SFU Segal Room 4800</br></li>
 											<li>Cost:<br>$300 Earlybird or $350 Regular</br></li>
@@ -134,7 +134,6 @@
 				</div>
 			</div>
 
-
 		<!-- Footer -->
 			<div id="footer-wrapper">
 				<footer id="footer" class="container">
@@ -144,7 +143,7 @@
 
 		<!-- Copyright -->
 			<div id="copyright">
-				&copy; Acceltech Inc. All rights reserved.</a>
+				&copy; InterprIT. All rights reserved.</a>
 			</div>
 	</body>
 </html>
