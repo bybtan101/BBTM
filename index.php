@@ -57,7 +57,7 @@
 							
 								<!-- Banner Copy -->
 									<p>Registration now full for the Spring 2015 Foundations of Web App Development program.</p>
-									<a href="https://www.eventbrite.ca/e/accel-tech-and-misa-presents-foundations-of-web-app-development-tickets-14256861657" class="button-big">Join Waitlist</a>
+									<a href="https://www.eventbrite.ca/e/accel-tech-and-misa-presents-foundations-of-web-app-development-tickets-14256861657" class="button-big">Register</a>
 
 							</div>
 							<div class="6u">
@@ -96,7 +96,7 @@
 										<a href="#" class="bordered-feature-image"><img src="images/pic02.jpg" alt="" /></a>
 										<h2>Interested in our Program?</h2>
 										<p>
-											Our 8-week part-time program runs every Saturday from 11AM-3PM inside SFU's Segal School of Business in
+											Our 9-week part-time program runs every Saturday from 11AM-3PM inside SFU's Segal School of Business in
 											downtown. We are looking for curious individuals to fill these seats.
 										</p>
 									</section>
@@ -146,11 +146,11 @@
 									<section>
 										<header>
 											<h2>Collaboration with SFU MISA</h2>
-											<h3>Some Updates</h3>
+											<h3>News</h3>
 										</header>
 										<a href="#" class="feature-image"><img src="images/misa.jpg" alt="misa" width="150" height="250"/></a>
 										<p>
-											InterprIT's proud to be working with SFU's Management Information Systems Association (MISA) to pilot the first foundations program starting January 31, 2015. 
+											InterprIT's proud to be working with SFU's Management Information Systems Association (MISA). 
 											MISA is a leading business club whose goal
 											is to promote MIS and technology among the Beedie student body. They also strives to provide
 											opportunities for their members to become involved in the technology community. 
@@ -190,13 +190,13 @@
 											<h3>Program Details</h3>
 										</header>
 										<ul class="check-list">
-											<li>Held at SFU Segal Room 4800</li>
-											<li>Starts January 31st, 2015</li>
-											<li>Class Capacity set at 30 students</li>
+											<li>Held at SFU Segal Room 4600</li>
+											<li>Starts May 16th, 2015</li>
+											<li>Class Capacity set at 32 students</li>
 											<li>Students from all faculties welcome</li>
-											<li>3 hours a week, with quick concept at start followed by hands-on exercises</li>
+											<li>4 hours a week, with quick concept at start followed by hands-on exercises</li>
 											<li>Students must bring their own laptop (BYOL model)</li>
-											<li>Students to perform demonstration on their web app starting week three</li>
+											<li>Weekly demos and quizzes to reinforce key concepts</li>
 										</ul>
 									</section>
 							</div>
