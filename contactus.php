@@ -88,7 +88,7 @@
 											<td><input id="FromEmailAddress" name="FromEmailAddress" type="text" maxlength="60" style="width:300px; border:1px solid #999999" /></td>
 											</tr><tr>
 											<td><b>Comments:</b></td>
-											<td><input id="CellPhone" name="CellPhone" type="text" maxlength="300" style="length:500px; border:1px solid #999999" /></td>
+											<td><input rows="3" cols="25" id="CellPhone" name="CellPhone" type="text" maxlength="300" style="length:500px; border:1px solid #999999" /></td>
 											<td colspan="2" align="center">
 											<table border="0" cellpadding="0" cellspacing="0">
 											<tr valign="top">
