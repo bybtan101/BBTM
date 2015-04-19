@@ -56,7 +56,7 @@
 							<div class="6u">
 							
 								<!-- Banner Copy -->
-									<p>Registration now full for the Spring 2015 Foundations of Web App Development program.</p>
+									<p>Registration now open for the Preparation Excel Workshop</p>
 									<a href="https://www.eventbrite.ca/e/accel-tech-and-misa-presents-foundations-of-web-app-development-tickets-14256861657" class="button-big">Register</a>
 
 							</div>
