@@ -57,7 +57,7 @@
 							
 								<!-- Banner Copy -->
 									<p>Registration now open for the upcoming Preparation E! excel workshop</p>
-									<a href="https://www.eventbrite.ca/e/accel-tech-and-misa-presents-foundations-of-web-app-development-tickets-14256861657" class="button-big">Register</a>
+									<a href="https://www.eventbrite.ca/e/preparation-e-excel-workshop-tickets-16645677670" class="button-big">Register</a>
 
 							</div>
 							<div class="6u">

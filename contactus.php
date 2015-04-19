@@ -112,7 +112,7 @@
 										<div id="banner">
 											<div class="container">
 											<div class="6u">
-												<a href="https://www.eventbrite.ca/e/accel-tech-and-misa-presents-foundations-of-web-app-development-tickets-14256861657" class="button-big" style="color:#ffffff;">Register!</a>
+												<a href="https://www.eventbrite.ca/e/preparation-e-excel-workshop-tickets-16645677670" class="button-big" style="color:#ffffff;">Register!</a>
 												</div>
 											</div>
 										</div>
