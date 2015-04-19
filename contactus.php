@@ -123,7 +123,7 @@
 										</header>
 										<ul class="link-list">
 											<li><strong>Program Name:</strong><br>Foundations of Web App Development</br></li>
-											<li>Start Date: <br>Saturday, May 16th, 2015</br></li>
+											<li>Start Date: <br>Saturday, Sept 12th, 2015</br></li>
 											<li>Location: <br>SFU Segal Room 4600</br></li>
 											<li>Cost:<br>$429 Earlybird or $479 Regular</br></li>
 										</ul>
