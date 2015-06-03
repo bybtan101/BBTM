@@ -62,7 +62,7 @@
 
 							</div>
 							<div class="6u">
-								https://www.eventbrite.ca/e/interprit-presents-the-excel-hero-workshop-series-tickets-16645677670
+						
 								<!-- Banner Image -->
 									<a href="#" class="bordered-feature-image"><img src="images/banner.jpg" alt="" /></a>
 							
