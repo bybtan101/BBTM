@@ -40,12 +40,13 @@
 								<a href="#" class=""><img src="images/logo2.png" alt="" /></a>
 							
 							<!-- Nav -->
-								<nav id="nav">
-									<a href="index.php">Home</a>
-									<a href="programs.html">Programs</a>
-									<a href="faqs.html">FAQs</a>
-									<a href="contactus.php">Contact Us</a>
-								</nav>
+					      <nav id="nav">
+                  <a href="index.php">Home</a>
+                  <a href="programs.html">Programs</a>
+                  <a href="bootcamp.html">Bootcamp</a>
+                  <a href="faqs.html">FAQs</a>
+                  <a href="contactus.php">Contact Us</a>
+                </nav>
 
 						</div>
 					</div>
