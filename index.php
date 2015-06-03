@@ -57,7 +57,7 @@
 							<div class="6u">
 							
 								<!-- Banner Copy -->
-									<p>Registration now open for the upcoming Preparation E! excel workshop</p>
+									<p>Registration now open for the Project Management at the workplace.</p>
 									<a href="https://www.eventbrite.ca/e/preparation-e-excel-workshop-tickets-16645677670" class="button-big">Register</a>
 
 							</div>
