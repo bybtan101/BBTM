@@ -58,11 +58,11 @@
 							
 								<!-- Banner Copy -->
 									<p>Registration now open for the Project Management at the workplace.</p>
-									<a href="www.tech-bootcamp.eventbrite.ca" class="button-big">Register</a>
+									<a href="https://www.eventbrite.ca/e/interprit-presents-the-excel-hero-workshop-series-tickets-16645677670" class="button-big">Register</a>
 
 							</div>
 							<div class="6u">
-								
+								https://www.eventbrite.ca/e/interprit-presents-the-excel-hero-workshop-series-tickets-16645677670
 								<!-- Banner Image -->
 									<a href="#" class="bordered-feature-image"><img src="images/banner.jpg" alt="" /></a>
 							
