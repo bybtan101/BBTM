@@ -58,7 +58,7 @@
 							
 								<!-- Banner Copy -->
 									<p>Registration now open for the Project Management at the workplace.</p>
-									<a href="www.tech-bootcamp.eventbrite.ca" class="button-big">Register</a>
+									<a href="http://www.eventbrite.ca/e/interprit-bootcamp-project-management-at-the-workplace-tickets-17248581973" class="button-big">Register</a>
 
 							</div>
 							<div class="6u">
